@@ -1,0 +1,27 @@
+metadata_version: 1
+name: 'MNet: V2.0 (An Updated Framework to Reduce pranayama Image Misclassification)'
+description: Fast and accurate image classification remains a significant challenge
+  in the field. to address this issue, we have modified old framework called "MNet"
+  by using two separate models called "MobileNet"  and "NASNetMobile". we have used
+  Pranayama dataset to test this new framework. MobileNet is used to classify the
+  type of pranayama wheras NasNetMobile is used to classify "Right" or "Wrong" posture.
+tags:
+- machine learning
+- transfer learning
+- pranayama image classification
+authors:
+- name: Vishal Meshram
+  affiliations:
+  - name: Vishwakarma Institute of Information Technology
+- name: Kailas Patil
+  affiliations:
+  - name: Vishwakarma University
+- name: Vidula Meshram
+  affiliations:
+  - name: Vishwakarma Institute Of Information Technology
+- name: Yogesh Suryawanshi
+  affiliations:
+  - name: Vishwakarma University
+corresponding_contributor:
+  name: Vishal Meshram
+  email: vishal.meshram@viit.ac.in
